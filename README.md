@@ -1,2 +1,2 @@
-# OOP-c-Problems
-The problems I found amusing and the lab works I did, are uploaded here. 
+# OOP-c++-Problems
+Just some random problems I saw along the way !! 
