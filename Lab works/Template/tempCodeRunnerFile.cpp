@@ -1,0 +1,1 @@
+    myList.remove(20);
